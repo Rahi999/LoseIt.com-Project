@@ -1,2 +1,2 @@
-# LoseIt.com-Project
+# LoseIt.com
 Created with CodeSandbox
